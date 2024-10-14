@@ -1,2 +1,14 @@
-# Amazon-Clone
-Amazon Clone Project :  A responsive and functional clone of the Amazon e-commerce website, built using HTML and CSS. Demonstrates my skills in front-end web development, with a focus on responsive design, CSS Grid, and Flexbox.
+# Amazon Clone
+
+
+Amazon Clone Project
+
+A responsive Amazon clone built with HTML & CSS, showcasing front-end skills. Features include:
+
+* Responsive design
+* CSS Grid & Flexbox
+* Animations & transitions
+
+Technologies: HTML5, CSS3, CSS Grid, Flexbox
+
+License: MIT License
