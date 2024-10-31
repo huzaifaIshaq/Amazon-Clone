@@ -18,7 +18,7 @@ I'm an aspiring full-stack developer, currently focusing on mastering front-end 
 
 ## Authors
 
-- [@huzaifaIshaq](https://www.github.com/huzaifaIshaq)
+- [@withzefi](https://www.github.com/withzefi)
 
 ## Acknowledgements
 
